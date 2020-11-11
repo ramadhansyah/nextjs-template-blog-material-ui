@@ -63,7 +63,7 @@ const useStyles = makeStyles((theme) => ({
   }
 }));
 
-function Index() {
+function Blog() {
   const classes = useStyles();
 
   return (
@@ -300,4 +300,4 @@ function Index() {
   );
 }
 
-export default Index;
+export default Blog;
