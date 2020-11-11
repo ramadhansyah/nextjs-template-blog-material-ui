@@ -1,5 +1,5 @@
 
-## Getting Started
+## Clone Or Download
 
 npm install
 
