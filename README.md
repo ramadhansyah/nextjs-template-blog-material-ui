@@ -16,5 +16,5 @@ yarn dev
 ## demo 
 Open [https://nextjs-template-blog-material-ui.vercel.app/](https://nextjs-template-blog-material-ui.vercel.app/)
 
-![Alt text](Screen Shot 2020-11-11 at 08.54.57.png?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/ramadhansyah/nextjs-template-blog-material-ui/main/Screen%20Shot%202020-11-11%20at%2008.54.57.png "Title")
 
